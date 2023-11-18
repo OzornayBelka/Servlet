@@ -1,0 +1,39 @@
+<changelist name="Uncommitted_changes_before_Update_at_18_11_2023,_20_07_[Changes]" date="1700327239001" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2023,_20_07_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 18.11.2023, 20:07 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="target/servlets-1.0-SNAPSHOT/WEB-INF/classes/ru/netology/controller/PostController.class" />
+    <option name="AFTER_PATH" value="target/servlets-1.0-SNAPSHOT/WEB-INF/classes/ru/netology/controller/PostController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2023,_20_07_[Changes]/PostController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/servlets-1.0-SNAPSHOT/WEB-INF/classes/ru/netology/repository/PostRepository.class" />
+    <option name="AFTER_PATH" value="target/servlets-1.0-SNAPSHOT/WEB-INF/classes/ru/netology/repository/PostRepository.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2023,_20_07_[Changes]/PostRepository.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/servlets-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-4.0.1.jar" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/ru/netology/servlet/MainServlet.class" />
+    <option name="AFTER_PATH" value="target/classes/ru/netology/servlet/MainServlet.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2023,_20_07_[Changes]/MainServlet.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/servlets-1.0-SNAPSHOT/WEB-INF/classes/ru/netology/servlet/MainServlet.class" />
+    <option name="AFTER_PATH" value="target/servlets-1.0-SNAPSHOT/WEB-INF/classes/ru/netology/servlet/MainServlet.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2023,_20_07_[Changes]/MainServlet1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/ru/netology/controller/PostController.class" />
+    <option name="AFTER_PATH" value="target/classes/ru/netology/controller/PostController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2023,_20_07_[Changes]/PostController1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/ru/netology/repository/PostRepository.class" />
+    <option name="AFTER_PATH" value="target/classes/ru/netology/repository/PostRepository.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2023,_20_07_[Changes]/PostRepository1.class" />
+  </binary>
+</changelist>

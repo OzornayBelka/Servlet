@@ -1,5 +1,6 @@
 package ru.netology.servlet;
 
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import ru.netology.controller.PostController;
 import ru.netology.repository.PostRepository;
 import ru.netology.service.PostService;
@@ -19,12 +20,9 @@ public class MainServlet extends HttpServlet {
 
     @Override
     public void init() {
-        final var repository = new PostRepository();
-        //создаем хранилище
-        final var service = new PostService(repository);
-        //создаем сервис (бизнес логика) и записываем данные из хранилища
-        controller = new PostController(service);
-        //в контроллер передаем информацию для отправки пользователю обработанную сервисом
+        final var context = new AnnotationConfigApplicationContext("ru.netology");
+        controller = context.getBean(PostController.class);
+
     }
 
     @Override
