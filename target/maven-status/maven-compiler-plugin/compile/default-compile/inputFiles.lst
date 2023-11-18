@@ -1,0 +1,6 @@
+/Users/uliagudkova/IdeaProjects/04_serlvets/servlets/src/main/java/ru/netology/service/PostService.java
+/Users/uliagudkova/IdeaProjects/04_serlvets/servlets/src/main/java/ru/netology/model/Post.java
+/Users/uliagudkova/IdeaProjects/04_serlvets/servlets/src/main/java/ru/netology/repository/PostRepository.java
+/Users/uliagudkova/IdeaProjects/04_serlvets/servlets/src/main/java/ru/netology/controller/PostController.java
+/Users/uliagudkova/IdeaProjects/04_serlvets/servlets/src/main/java/ru/netology/exception/NotFoundException.java
+/Users/uliagudkova/IdeaProjects/04_serlvets/servlets/src/main/java/ru/netology/servlet/MainServlet.java
